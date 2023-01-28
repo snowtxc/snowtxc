@@ -1,5 +1,5 @@
 
-
+<!-- visitor counter -->
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
@@ -62,6 +62,5 @@ I'm Rodrigo Castro. I'm a developer and im studying Computer Science 🎓 from S
  
 </p>
 
-
-
+<!-- Latest articles -->
 
